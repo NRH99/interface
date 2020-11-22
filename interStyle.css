@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    margin: 0px;
+  padding-bottom: 20px;
+    margin-bottom: 20px;
+   background-color: white;  
+}
+.pic{
+    margin: 0px;
+    background-color: #77a0b4;
+    border: #77a0b4;
+}
+img{
+    position:relative;
+    left: 490px;
+}
+form{
+    margin: 0px 40px;
+    padding: 0px 0px 100px 0px;
+    margin-bottom: 100px;
+}
+.border{
+    
+     font-size: 20px;
+   font-family: 'Lateef', serif;
+    position: relative;
+    top: 120px;
+    text-align: right;
+}
+b:import{
+    font-family:'Amiri';
+    font-weight:bolder;
+    color: #03005C;
+}
+input{
+     font-size: 15px;
+    width: 30%;
+    text-align: right;
+    padding: 8px;
+    margin: 8px;
+}
+.login{
+    font-weight: 800;
+    word-spacing: 3px;
+    color: darkgray;
+    margin: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+.input-group1{
+   padding-top: 30px; 
+}
+.pp{
+     font-weight: 200;
+    padding-bottom: 30px;  
+}
+button{
+    font-size: 15px;
+    text-align: center;
+    width: 10%;
+    background: #777777;
+    color:white;
+    padding: 8px 20px;
+    border: none;
+    position: relative;
+    right: 120px;
+    margin-top: 10px;
+    
+}
+footer{
+    position: relative;
+    top:66px;
+    background: #838383;
+    border: none;
+    width: 96.50%;
+    padding: 20px;
+}
+hr{
+     position: relative;
+    bottom: 18px;
+    background: #838383;
+    border: none;
+    width: 100%;
+    padding: 10px 0px; 
+}
